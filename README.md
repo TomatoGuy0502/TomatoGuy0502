@@ -2,6 +2,7 @@
 ======
 ```javascript
 const aboutMe = {
+   name: "林彥廷"
    pronouns: "he" | "him",
    code: [HTML, CSS, Javascript, Python, PHP],
    technologies: {
