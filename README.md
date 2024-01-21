@@ -2,22 +2,24 @@
 ======
 ```javascript
 const aboutMe = {
-   name: "林彥廷",
+   name: "林彥廷 Yen-Ting, Lin",
    pronouns: "he" | "him",
-   code: [HTML, CSS, Javascript, Python, PHP],
    technologies: {
       frontEnd: {
-         js: ["Vue", "React"],
-         css: ["Bootstrap", "Tailwind", "Materialize", "Semantic UI"]
+         js: {
+            goodAt: ["Vue", "Nuxt"],
+            surfaceLevel: ["React", "Next", "Angular"]
+         },
+         css: ["TailwindCSS", "UnoCSS", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express"],
-         php: ["Laravel"]
+         nodejs: ["Express", "Fastify", "NestJS"],
+         php: ["Laravel"],
+         BaaS: ["Firebase", "Supabase"]
       },
-      databases: ["MongoDB", "mySQL"]
+      databases: ["MongoDB", "MySQL"],
+      otherLanguages: ["Python", "C++"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: "Masters Graduates, open for job opportunities",
 };
-
-const oneMoreThing = "I bought a M1 macbook recently🎉🎉🎉"
 ```
