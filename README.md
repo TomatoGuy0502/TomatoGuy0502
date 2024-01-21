@@ -23,3 +23,5 @@ const aboutMe = {
    currentOccupation: "Masters Graduates, open for job opportunities",
 };
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomatoGuy0502&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
